@@ -1,0 +1,11 @@
+Model Information:
+* title:	Trash Shelter
+* source:	https://sketchfab.com/3d-models/trash-shelter-cdbb934183d14025b7632c1112d6ebd6
+* author:	JCasetta (https://sketchfab.com/jcasetta)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Trash Shelter" (https://sketchfab.com/3d-models/trash-shelter-cdbb934183d14025b7632c1112d6ebd6) by JCasetta (https://sketchfab.com/jcasetta) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
